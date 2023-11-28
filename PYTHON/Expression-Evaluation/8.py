@@ -1,0 +1,1 @@
+print(len('hello')==25/5 or 20/10)

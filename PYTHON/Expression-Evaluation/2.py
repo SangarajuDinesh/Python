@@ -1,0 +1,1 @@
+print(4*len("problem1")/(len("python")%3)+2.0)

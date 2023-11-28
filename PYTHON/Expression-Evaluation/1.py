@@ -1,0 +1,1 @@
+print(len(str(10<20)))
