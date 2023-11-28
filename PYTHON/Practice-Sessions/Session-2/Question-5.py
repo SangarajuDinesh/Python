@@ -1,0 +1,12 @@
+tup=[]
+a=0
+b=1
+sum=0
+num=9
+while(num>0):
+    sum=a+b
+    tup.append(sum) 
+    a=b
+    b=sum
+    num-=1
+print(tuple(tup))
